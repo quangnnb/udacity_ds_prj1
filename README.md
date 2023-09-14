@@ -18,7 +18,7 @@ Through Software Industry Salary Dataset - 2022, my aim is to uncover insights i
 A Jupyter notebook that encompasses the steps of reading input files, performing data processing, and generating visualizations.
 
 **Results** 
-+ The exploration and analysis of this data have been published on Medium as a blog post, and you can access it by clicking here.
++ The exploration and analysis of this data have been published on wordress as a blog post, and you can access it by clicking [here](https://wordpress.com/post/quangnnb.wordpress.com/1126).
 
 **Licensing, Authors, Acknowledgements**
 + Data :- Kaggle & software-professional-salaries-2022
