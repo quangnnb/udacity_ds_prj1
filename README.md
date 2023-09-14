@@ -1,9 +1,8 @@
 **Installation**
-
-pandas
-numpy
-matplotlib
-plotly
++ pandas
++ numpy
++ matplotlib
++ plotly
 
 **Project motivation**
 
@@ -21,5 +20,5 @@ A Jupyter notebook that encompasses the steps of reading input files, performing
 + The exploration and analysis of this data have been published on Medium as a blog post, and you can access it by clicking here.
 
 **Licensing, Authors, Acknowledgements**
-Data :- Kaggle & software-professional-salaries-2022 
-https://www.kaggle.com/datasets/iamsouravbanerjee/software-professional-salaries-2022
++ Data :- Kaggle & software-professional-salaries-2022
++ https://www.kaggle.com/datasets/iamsouravbanerjee/software-professional-salaries-2022
