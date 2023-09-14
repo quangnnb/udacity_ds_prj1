@@ -13,8 +13,8 @@ With the salary tracker of India in 2022, I would like to figure out the followi
 3. Which are the top 3 job titles with the highest salaries?
 
 **File Description** 
-   +) Salary_Dataset_with_Extra_Features.csv: Kaggle dataset
-   +) salary_analyze_india2022.ipynb : 
++ Salary_Dataset_with_Extra_Features.csv: Kaggle dataset
++ salary_analyze_india2022.ipynb : 
 A Jupyter notebook that encompasses the steps of reading input files, performing data processing, and generating visualizations.
 
 **Results** 
