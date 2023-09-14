@@ -17,9 +17,8 @@ With the salary tracker of India in 2022, I would like to figure out the followi
 + salary_analyze_india2022.ipynb : 
 A Jupyter notebook that encompasses the steps of reading input files, performing data processing, and generating visualizations.
 
-**Results** :
-
-The exploration and analysis of this data have been published on Medium as a blog post, and you can access it by clicking here.
+**Results** 
++ The exploration and analysis of this data have been published on Medium as a blog post, and you can access it by clicking here.
 
 **Licensing, Authors, Acknowledgements**
 Data :- Kaggle & software-professional-salaries-2022 
